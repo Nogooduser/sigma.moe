@@ -406,5 +406,8 @@ button:focus {
     }
     #navigation {
     text-align:left;
+    }
+    #logo {
+    display:none;
 }
 }
