@@ -390,7 +390,6 @@ button:focus {
         width:33%;
     }
     header {
-	display:none
         width:96vw;
         background:#fff;
         padding:4vh 2vw;
@@ -403,7 +402,7 @@ button:focus {
         padding:15px 0px;
     }
     #navigation a {
-        color:#000;
+        color:#fff;
     }
     #navigation {
     text-align:left;
