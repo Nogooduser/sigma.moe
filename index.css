@@ -320,7 +320,7 @@ button:focus {
 }
 
 @media (max-width: 1000px){
-    #photos {
+   #photos {
     columns:1;
     column-gap:0%;
     }
@@ -359,7 +359,6 @@ button:focus {
     padding:6px 30px;
     width:60%;
     margin:4vh auto;
-    box-shadow:0px 10px 20px rgba(97, 227, 255, 0.8);
     background:#121212;
     color:#fff;
     }
@@ -391,7 +390,7 @@ button:focus {
     }
     header {
         width:96vw;
-        background:#fff;
+        background:#121212;
         padding:4vh 2vw;
         position:absolute;
     }
@@ -399,15 +398,10 @@ button:focus {
         width:100%;
         display:block;
         text-align:center;
-        padding:15px 0px;
+        padding:0px 0px;
+		background-color:#121212
     }
     #navigation a {
         color:#fff;
     }
-    #navigation {
-    text-align:left;
-    }
-    #logo {
-    display:none;
-}
 }
