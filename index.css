@@ -332,7 +332,13 @@ button:focus {
         cursor: pointer;
     }
     #rightImage {
-        display:none;
+        display:block;
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 800px;
+	height:95vh
+	background-size:cover;
+	background-repeat:no-repeat;
     }
     #top_part {
         border:0px;
