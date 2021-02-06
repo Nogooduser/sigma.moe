@@ -105,7 +105,6 @@ header table {
 }
 #top_part {
     width:100%;
-    border:2vh solid #121212;
 }
 #top_part tr td{
     width:50%;
@@ -178,7 +177,7 @@ header table {
 #rightImage {
     width:100%;
     height:95vh;
-    background:url("https://lewd.cat/21j8blm2c72m.png") center center;
+    background:url("images/shigu.png") center center;
     background-size:cover;
     background-repeat:no-repeat;
 }
