@@ -343,6 +343,9 @@ header table {
     color:rgb(255, 44, 90);
     text-decoration:none;
 }
+#footer img {
+	height: 20vh;
+}
 ::placeholder {
     color:#000;
 }
