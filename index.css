@@ -57,6 +57,11 @@ br {
   padding-left: 20px;
   padding-right: 20px;
 }
+.text-block a {
+	text-decoration:none;
+	color:#fff;
+	border-bottom:2px solid #f2428e;
+}
 #loading {
     width: 100vw;
     height: 100vh;
